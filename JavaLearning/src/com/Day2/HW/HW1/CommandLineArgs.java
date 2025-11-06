@@ -1,5 +1,4 @@
-package com.Day1.HW.HW1;
-import java.util.Scanner;
+package com.Day2.HW.HW1;
 
 public class CommandLineArgs {
     public static void main(String[] args) {
